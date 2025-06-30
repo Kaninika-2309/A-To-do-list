@@ -1,2 +1,2 @@
 # A-To-do-list
-To-Do List is a simple task management web app built with HTML, CSS, and JS.
+To-Do List is a simple task management web app built with HTML, CSS, and JS.It allows users to add, delete, and mark tasks as complete, helping them stay organized and productive. Tasks are saved in the browser using local storage, so they remain even after refreshing or closing the tab. The app features a clean user interface and responsive design, making it easy to use on both desktop and mobile devices.
